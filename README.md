@@ -26,6 +26,7 @@ node app.js add --title="My title3" --body="my Body3"
 node app.js add --title="My hobbies" --body="web dev, coding, problem solving"
 node app.js add --title="My hobbies" --body="web dev, coding, problem solving"
 ```
+![alt text](https://github.com/Debajyoti-Shit/Notes-App/blob/main/Screenshot%20(65).png)
 
 
 
@@ -33,9 +34,11 @@ node app.js add --title="My hobbies" --body="web dev, coding, problem solving"
 ```
 node app.js remove --title="My title3"
 ```
+![alt text](https://github.com/Debajyoti-Shit/Notes-App/blob/main/Screenshot%20(66).png)
 
 ### List notes 
 ```
 node app.js list
 ```
+![alt text](https://github.com/Debajyoti-Shit/Notes-App/blob/main/Screenshot%20(66).png)
 
