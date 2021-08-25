@@ -40,5 +40,5 @@ node app.js remove --title="My title3"
 ```
 node app.js list
 ```
-![alt text](https://github.com/Debajyoti-Shit/Notes-App/blob/main/Screenshot%20(66).png)
+![alt text](https://github.com/Debajyoti-Shit/Notes-App/blob/main/Screenshot%20(67).png)
 
